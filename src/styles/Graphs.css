@@ -1,0 +1,38 @@
+.section00part1,
+.section00part2,
+.section01part1 {
+  margin: auto;
+  font-size: 18px;
+  width: 60%;
+}
+.stupidLatex :not(.formalDef) {
+  font-size: 18px;
+}
+.section1 {
+    margin: auto;
+    text-align: center;
+    word-wrap: break-word;
+    width: 600px;
+}
+.introduction {
+  margin: auto;
+  font-size: 18px;
+  text-align: center;
+  word-wrap: break-word;
+  width: 500px;
+}
+
+.pictureText {
+  padding-left: 35%;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.psuedocodeDFS {
+  margin: auto;
+  width: 25%;
+}
+
+.summary {
+  font-style: italic;
+}
